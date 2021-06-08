@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Etheoq
+- 👀 I’m interested in Ethereum smart contracts
+- 🌱 I’m currently learning Solidity
